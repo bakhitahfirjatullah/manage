@@ -6,6 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+![Untitled Diagram drawio - Copy](https://github.com/user-attachments/assets/9c8a40f0-acd4-4e77-8413-d930a708bba7)
 
 ## About Laravel
 
