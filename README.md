@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/c6978310-8d9a-4b38-ac09-8aaffac61a5d)<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -20,6 +20,21 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+## Database ERD
+
+![Database ERD - Management System](![Untitled Diagram drawio](https://github.com/user-attachments/assets/5819ed6d-38a8-42c7-aa3a-80a1b5822625)
+)
+
+Entity Relationship Diagram untuk sistem management ini menunjukkan hubungan antar tabel dalam database.
+
+### Komponen Database:
+- **Users**: Manajemen pengguna sistem
+- **Products/Items**: Data produk atau item yang dikelola
+- **Categories**: Kategori untuk organisasi data
+- **Transactions**: Pencatatan transaksi
+
+---
 
 ## Learning Laravel
 
