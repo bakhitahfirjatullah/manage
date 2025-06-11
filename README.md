@@ -21,6 +21,21 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## Database ERD
+
+![Database ERD - Management System]![Untitled Diagram drawio](https://github.com/user-attachments/assets/4427dadd-65f0-4a4b-bb77-e6cfed7ed36b)
+
+
+Entity Relationship Diagram untuk sistem management ini menunjukkan hubungan antar tabel dalam database.
+
+### Komponen Database:
+- **Users**: Manajemen pengguna sistem
+- **Products/Items**: Data produk atau item yang dikelola
+- **Categories**: Kategori untuk organisasi data
+- **Transactions**: Pencatatan transaksi
+
+---
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
